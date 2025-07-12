@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full-Stack Engineer proficient in React.js, Next.js, Express.js and other frameworks, with a good knowledge of PostgreSQL and MongoDB.<br>Currently in my pre-final year of B.Tech in CSE at VIT'V.<br>I'm happy to collaborate on any Software Development Opportunity.
+I'm a Full-Stack Engineer proficient in React.js, Next.js, Express.js and other frameworks, with a good knowledge of PostgreSQL and MongoDB.<br>Currently in my final year of B.Tech in CSE at VIT'V.<br>I'm happy to collaborate on any Software Development Opportunity.
 
 
 ## 🌐 Socials:
